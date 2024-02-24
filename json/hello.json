@@ -1,0 +1,42 @@
+{
+  "games": {
+    "category": "Games",
+    "value": [
+      {
+        "img": "_nuxt/assets/img/111avav.webp",
+        "title": "Final Draft 13",
+        "description": "Работа с иконками"
+      },
+      {
+        "img": "_nuxt/assets/img/111avav.webp",
+        "title": "Folder-Factory",
+        "description": "Работа с иконками"
+      },
+      {
+        "img": "_nuxt/assets/img/111avav.webp",
+        "title": "Folder-Factory",
+        "description": "Работа с иконками"
+      },
+      {
+        "img": "_nuxt/assets/img/111avav.webp",
+        "title": "Pixelmator Pro",
+        "description": "Работа с иконками"
+      },
+      {
+        "img": "_nuxt/assets/img/111avav.webp",
+        "title": "Folder-Factory",
+        "description": "Работа с иконками"
+      },
+      {
+        "img": "_nuxt/assets/img/111avav.webp",
+        "title": "Folder-Factory",
+        "description": "Работа с иконками"
+      },
+      {
+        "img": "_nuxt/assets/img/111avav.webp",
+        "title": "Folder-Factory",
+        "description": "Работа с иконками"
+      }
+    ]
+  }
+}
